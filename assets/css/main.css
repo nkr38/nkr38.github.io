@@ -2549,7 +2549,6 @@ input, select, textarea {
 	}
 
 /* Icon */
-
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
@@ -2874,7 +2873,9 @@ input, select, textarea {
 		}
 
 /* Icons */
-
+	.icons {
+		display: flex;
+	}
 	ul.icons {
 		cursor: default;
 		list-style: none;
